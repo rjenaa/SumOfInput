@@ -1,4 +1,4 @@
-# ZCW-MicroLabs-OOP
+# ZCW-MicroLabs-OOP-SumOfInput
 
 # Sum of the Numbers
 
