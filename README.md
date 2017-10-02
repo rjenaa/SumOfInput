@@ -21,3 +21,7 @@ No Unit Test
 1. Understand how to get input from user
 2. Find solution to sum numbers from 1 to n
 3. Print final answer to screen
+
+
+## Whats Next?
+* The next lab is located [here](https://github.com/Zipcoder/ZCW-MicroLabs-OOP-SumOrProduct).
