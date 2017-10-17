@@ -8,14 +8,7 @@
 * **Constraint:** No [Guassian wizardry](http://mathandmultimedia.com/2010/09/15/sum-first-n-positive-integers/) !
 
 ## Unit Test
-
 No Unit Test
-
-## Instructions
-
-1. Understand how to get input from user
-2. Find solution to sum numbers from 1 to n
-3. Print final answer to screen
 
 
 ## Whats Next?
