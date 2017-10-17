@@ -4,7 +4,7 @@
 
 ### Topics
 * user input
-* `Random` object
+* Loops
 
 ## Overview
 * Write a program which prompts the user to input a number, `n`.
