@@ -2,10 +2,6 @@
 
 # Sum of the Numbers
 
-### Topics
-* user input
-* Loops
-
 ## Overview
 * Write a program which prompts the user to input a number, `n`.
 * The program should respond by printing the sum of the numbers 1 to `n`.
