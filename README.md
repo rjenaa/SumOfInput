@@ -1,4 +1,4 @@
-# ZCW-MicroLabs-OOP-SumOfInput
+# ZCW-MicroLabs-JavaFundamentals-SumOfInput
 
 # Sum of the Numbers
 
