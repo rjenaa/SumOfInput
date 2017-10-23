@@ -9,7 +9,3 @@
 
 ## Unit Test
 No Unit Test
-
-
-## Whats Next?
-* The next lab is located [here](https://github.com/Zipcoder/ZCW-MicroLabs-OOP-SumOrProduct).
