@@ -9,3 +9,7 @@
 
 ## Unit Test
 No Unit Test
+
+
+## What's next?
+* The next lab can be found [here](https://github.com/Zipcoder/ZCW-MicroLabs-JavaFundamentals-TooLargeTooSmall).
